@@ -53,4 +53,16 @@ Once the setup is complete, you can run the agent with the following command:
 
 ```bash
 python agent.py
+
+he script will prompt you to enter a task. Here are some examples of what you can ask:
+
+Create a file named "test.txt" with the content "Hello, Agent!"
+
+List all the python files in my directory
+
+List all the python files in my directory and count the total number of lines of code across all of them
+
+Read the file agent.py
+
+To exit the agent, type quit or exit at the prompt, or press Ctrl+C.
     
